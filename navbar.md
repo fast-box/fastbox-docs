@@ -1,0 +1,2 @@
+- [HOME](http://fastbox.cc)
+- [GITHUB](https://github.com/fast-box/fastbox)
